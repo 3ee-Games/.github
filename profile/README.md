@@ -8,4 +8,4 @@ Right now, open communities are building amazing software together.  If you're l
 
 ---
 
-📝 3ee Games projects adopt the [Code of Conduct](https://3ee.com/conduct/).
+📝 All projects adopt the 3ee Games [Code of Conduct](https://3ee.com/conduct/).
